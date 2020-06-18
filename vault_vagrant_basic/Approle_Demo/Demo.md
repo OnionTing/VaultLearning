@@ -53,3 +53,8 @@ You can test if you have saved the kv pair by running: 'vault kv get secret/data
 '$VAULT_TOKEN=s.aaaabbbbbb vault kv get secret/data/mysql/webapp' 
 
 or '$vault login s.aaaaabbbbb' 'vault kv get secret/data/mysql/webapp'
+
+
+# Distroy the demo
+'$ exit'
+'$vagrant destroy'
