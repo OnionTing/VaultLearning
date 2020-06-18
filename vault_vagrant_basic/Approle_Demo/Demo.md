@@ -57,4 +57,5 @@ or '$vault login s.aaaaabbbbb' 'vault kv get secret/data/mysql/webapp'
 
 # Distroy the demo
 '$ exit'
+
 '$vagrant destroy'
