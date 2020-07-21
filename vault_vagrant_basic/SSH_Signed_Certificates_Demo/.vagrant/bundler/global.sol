@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-hosts",["= 2.9.0"]],["vagrant-vbox-snapshot",["= 0.0.10"]]],"checksum":"4baa4607bfad133a1bc8a44a8d0f20566ac320fa9c871c018877069093058a9d","vagrant_version":"2.2.9"}
